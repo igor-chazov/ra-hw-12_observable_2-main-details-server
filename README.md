@@ -7,6 +7,6 @@
 
 ### 12.2 «Список и подробности» серверная часть
 
-#### Описание задания в [клиентской](https://github.com/igor-chazov/ra-hw-12_observable_1-2-3#12.2) части.
+#### Описание задания в [клиентской](https://github.com/igor-chazov/ra-hw-12_observable_2-main-details) части.
 
 ---
